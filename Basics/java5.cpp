@@ -1,5 +1,3 @@
-package Basics;
-
 // **** STRING DATATYPE , HEAP STORAGE AND STRING POOL **** //
 public class java6 {
     // static void generictype.main(String[] args) {
