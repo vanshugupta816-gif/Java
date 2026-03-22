@@ -1,5 +1,3 @@
-package Statickeyword;
-
 public class Student {
 
     public static int count = 0;
